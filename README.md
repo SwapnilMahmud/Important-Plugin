@@ -176,3 +176,5 @@ blurred elements over other elements
 
 ### Utilities & Others
 [jQuery.Vibrate](https://github.com/illyism/jquery.vibrate.js): This plugin allows developers to vibrate a device (in a pattern) for a given duration.
+ ### Banner Maker
+http://bannerdesigner.leevio.com/
